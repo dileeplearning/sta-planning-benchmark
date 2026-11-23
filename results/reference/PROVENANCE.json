@@ -1,0 +1,165 @@
+{
+  "source": "Original local experiment outputs, unchanged arrays extracted for this figure only",
+  "source_files": [
+    {
+      "original_file": "main_maze0.npz",
+      "sha256": "2ccdd6ab90ee312ca73a3282e206aa417d8e7ea4f7f3aa0d8bf9d9ea29a9f688"
+    },
+    {
+      "original_file": "maxsum_maze0.npz",
+      "sha256": "c223c0e0b151b5d9d6c4b49018e3810109a537982c5544211e588150cc8fc579"
+    },
+    {
+      "original_file": "main_maze1.npz",
+      "sha256": "65fd08abb3a906b7f05282b9ae4b80a429a5c210a8049583aaf173a2b873e334"
+    },
+    {
+      "original_file": "maxsum_maze1.npz",
+      "sha256": "982ea7eae531a315690456b863b1a5c5ad5fe52d7cd2f9bb2e2096029ce4dc12"
+    },
+    {
+      "original_file": "main_maze2.npz",
+      "sha256": "b65a62c186e50c5d004d82a566bfe808e2082905abf7dd94b3dbf3e7150b71a3"
+    },
+    {
+      "original_file": "maxsum_maze2.npz",
+      "sha256": "8a11a930508faff0e2243d7c12a89ff1c1287abb8f1d755747ea1d1f49f4ce5d"
+    },
+    {
+      "original_file": "main_maze3.npz",
+      "sha256": "775b1925e94757e5c98936f5989ee939557304a9d47d22cbe2ecb5f9ab580dad"
+    },
+    {
+      "original_file": "maxsum_maze3.npz",
+      "sha256": "2feb68805cfa6287122bf9c8d3457a78cbaad24bfd265bcc0b4d7ed51b5e4858"
+    },
+    {
+      "original_file": "main_maze4.npz",
+      "sha256": "ef0a7379cc465f5737fd6e26eb607ed6351e4ae81ef92e54e0021db03ac6a88c"
+    },
+    {
+      "original_file": "maxsum_maze4.npz",
+      "sha256": "3ced75b1acfa4f0c52c734adb82a21d193094e5eede026b61be1e9e17fb6c120"
+    },
+    {
+      "original_file": "main_maze5.npz",
+      "sha256": "058acda2e450b46accab6e6a27538554199858352e32d773fb0ea922278463a7"
+    },
+    {
+      "original_file": "maxsum_maze5.npz",
+      "sha256": "5aeb156b822241ea7cec9a957916625ba3b752c78c94eb4e11e5b1d7df61a069"
+    },
+    {
+      "original_file": "main_maze6.npz",
+      "sha256": "25d3b50fcb1b6c3b3c17fcf6795815ea328759ff1341493238772bf8ab00e1f5"
+    },
+    {
+      "original_file": "maxsum_maze6.npz",
+      "sha256": "3b9d0e53c2e046215b87637832d513e0196a718b48b868b0df43527c10dbc738"
+    },
+    {
+      "original_file": "main_maze7.npz",
+      "sha256": "ba3409018d16f83b09fead19b181c8d00e3c56ca7bdf55b19582b9852fed97a9"
+    },
+    {
+      "original_file": "maxsum_maze7.npz",
+      "sha256": "0d6127c08099a197515550c50314ddb5b936a4b328e7efdc79b622d0123e989a"
+    },
+    {
+      "original_file": "main_maze8.npz",
+      "sha256": "7e63a607e750f8f93ad0f54f6dd9b6d74420ff236643ec8fddd5e68415d658ed"
+    },
+    {
+      "original_file": "maxsum_maze8.npz",
+      "sha256": "7c8cf9ab5fd267d4d571d078604e4adca8cd156cecf84cda3b5b84d0ef32ab96"
+    },
+    {
+      "original_file": "main_maze9.npz",
+      "sha256": "502dd6819656d9aa13c99c96af8c458c32e03b4409f66f7bdf0bf7950cc83ad4"
+    },
+    {
+      "original_file": "maxsum_maze9.npz",
+      "sha256": "7537f212f51db5d07ed1789517c4a263d12144250e08ac31462ffa2a763f5dab"
+    },
+    {
+      "original_file": "main_maze10.npz",
+      "sha256": "abb750f63ef9587b786b04aa579222e75ddbd169abdee8eb3da68ee4188f8a10"
+    },
+    {
+      "original_file": "maxsum_maze10.npz",
+      "sha256": "4c24e7c2fc7a7d376585e3d32ca916dbc8ff8c60547e7dfd6fe787fed9e63c68"
+    },
+    {
+      "original_file": "main_maze11.npz",
+      "sha256": "388368bb388cd3161a2d6c4ab2c21a2fcb5ec45375ac7b9b47f58b96b179b733"
+    },
+    {
+      "original_file": "maxsum_maze11.npz",
+      "sha256": "089599b40b3d90827bfcc4198c6908ab27f9245c1a294552d8bb76aa2c9a3c16"
+    },
+    {
+      "original_file": "main_maze12.npz",
+      "sha256": "b14b87cc2d33029c7d1ed28290ea86c9af2085d69c863e2211f4a87067c27c43"
+    },
+    {
+      "original_file": "maxsum_maze12.npz",
+      "sha256": "c559c171ac3997a7e79e489fb77ed51ef4f1b86205750d8b9dabef326275daab"
+    },
+    {
+      "original_file": "main_maze13.npz",
+      "sha256": "d8e651537b4396568ddb5bc2247a1c39b81c58f7025785c1fa5878fcee8e2531"
+    },
+    {
+      "original_file": "maxsum_maze13.npz",
+      "sha256": "64a2b05a54b198cb27f02de6ebe8346e70965542ba5e3e14e74f59e422684418"
+    },
+    {
+      "original_file": "main_maze14.npz",
+      "sha256": "526fc1a5e7452cd57ba8f5b6558b7f4396387bf2193c1b0ce0eea06ea36d8ba5"
+    },
+    {
+      "original_file": "maxsum_maze14.npz",
+      "sha256": "12d1948aaa2eb03a1a043bef113ef47126c7042f92ba8f46c823f2f62d32ef17"
+    },
+    {
+      "original_file": "main_maze15.npz",
+      "sha256": "8e94ebb44156d23547cece0f54bcedb044f1b236335585c4c0a25c250ba86ffd"
+    },
+    {
+      "original_file": "maxsum_maze15.npz",
+      "sha256": "e7a8c14c8ca53d4d2da6b1c89202238291586e3ff56765143998ef346a5ce580"
+    },
+    {
+      "original_file": "main_maze16.npz",
+      "sha256": "93278f34055c91a4de26ce804482b6b2151efe94b0f5a8b605ca983777927c85"
+    },
+    {
+      "original_file": "maxsum_maze16.npz",
+      "sha256": "05c2e606c80e254e5a747060453614458053ed89632bc717c67f6903a9c001f5"
+    },
+    {
+      "original_file": "main_maze17.npz",
+      "sha256": "f6d04402cc9c82537b018a8da16a146b6cc98ce2bfcf58ce0e4e1f62574b0f82"
+    },
+    {
+      "original_file": "maxsum_maze17.npz",
+      "sha256": "2cba5ac3b8f80563b7604266a8d3342efa463957c55e7610e2ea0f5008fe5e56"
+    },
+    {
+      "original_file": "main_maze18.npz",
+      "sha256": "c839b91ed7a70251b450f72fc5faf479f4877e6f75759e6f98ebcdca6ad4b02d"
+    },
+    {
+      "original_file": "maxsum_maze18.npz",
+      "sha256": "d633f8475a4781b8b1f69063bed523847fb6d94997b59db154b9e224af9d350b"
+    },
+    {
+      "original_file": "main_maze19.npz",
+      "sha256": "d4114e92da9dfc257faf65fdaab0464cfbc8ce2db8b5e454fdb2e51ab06a9816"
+    },
+    {
+      "original_file": "maxsum_maze19.npz",
+      "sha256": "3d30dd2f5de69b3d7f4352c9be63e2fc3bf1714cef641236abdf32e416e41734"
+    }
+  ]
+}

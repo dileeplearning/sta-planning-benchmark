@@ -1,0 +1,812 @@
+[
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 1,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 2,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 3,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 4,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 5,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 6,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 7,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 8,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 9,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 10,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 11,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 12,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 13,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 14,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 15,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 16,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 17,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 18,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 19,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 20,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 21,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 22,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 23,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 24,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 25,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 26,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 27,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 28,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 29,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 400,
+    "distance": 30,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 1,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 2,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 3,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 4,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 5,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 6,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 7,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 8,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 9,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 10,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 11,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 12,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 13,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 14,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 15,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 16,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 17,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 18,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 19,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 20,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 21,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 22,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 23,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 24,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 25,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 26,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 27,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 28,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 29,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "STA",
+    "iterations": 1500,
+    "distance": 30,
+    "trials": 100,
+    "success": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 1,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 2,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 3,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 4,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 5,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 6,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 7,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 8,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 9,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 10,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 11,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 12,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 13,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 14,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 15,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 16,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 17,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 18,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 19,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 20,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 21,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 22,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 23,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 24,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 25,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 26,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 27,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 28,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 29,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  },
+  {
+    "algorithm": "Max-sum belief prop",
+    "iterations": 30,
+    "distance": 30,
+    "trials": 100,
+    "success": 1.0,
+    "ci_lower": 1.0,
+    "ci_upper": 1.0
+  }
+]

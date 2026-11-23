@@ -1,0 +1,13 @@
+{
+  "algorithm": "max-sum with backpointers",
+  "horizon": 30,
+  "mazes": 20,
+  "trials": 3000,
+  "successes": 3000,
+  "planner_seconds": 0.6679699178785086,
+  "start": "hard evidence",
+  "goal": "absorbing; required at horizon",
+  "transition": "hard adjacency constraints",
+  "cost": "1 per transition from a non-goal state",
+  "distance_used_by_planner": false
+}

@@ -1,0 +1,111 @@
+{
+  "python": "3.12.13",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "numpy": "1.26.4",
+  "scipy": "1.17.1",
+  "torch": "2.2.2",
+  "torch_threads": 2,
+  "per_maze_timings": [
+    {
+      "maze": 0,
+      "sta_seconds": 7.730886582983658,
+      "maxsum_seconds": 0.02235062513500452
+    },
+    {
+      "maze": 1,
+      "sta_seconds": 8.286170542007312,
+      "maxsum_seconds": 0.022417000029236078
+    },
+    {
+      "maze": 2,
+      "sta_seconds": 7.787347874836996,
+      "maxsum_seconds": 0.021416916977614164
+    },
+    {
+      "maze": 3,
+      "sta_seconds": 7.603910333011299,
+      "maxsum_seconds": 0.021427541971206665
+    },
+    {
+      "maze": 4,
+      "sta_seconds": 7.563240458955988,
+      "maxsum_seconds": 0.021436540875583887
+    },
+    {
+      "maze": 5,
+      "sta_seconds": 7.911195541964844,
+      "maxsum_seconds": 0.02147437515668571
+    },
+    {
+      "maze": 6,
+      "sta_seconds": 8.047685249941424,
+      "maxsum_seconds": 0.021627833833917975
+    },
+    {
+      "maze": 7,
+      "sta_seconds": 8.426449625054374,
+      "maxsum_seconds": 0.021623124834150076
+    },
+    {
+      "maze": 8,
+      "sta_seconds": 7.849242582917213,
+      "maxsum_seconds": 0.02151058311574161
+    },
+    {
+      "maze": 9,
+      "sta_seconds": 7.744942374993116,
+      "maxsum_seconds": 0.021471249870955944
+    },
+    {
+      "maze": 10,
+      "sta_seconds": 8.35918950010091,
+      "maxsum_seconds": 0.023712208960205317
+    },
+    {
+      "maze": 11,
+      "sta_seconds": 7.686985584208742,
+      "maxsum_seconds": 0.022858917014673352
+    },
+    {
+      "maze": 12,
+      "sta_seconds": 7.6651723340619355,
+      "maxsum_seconds": 0.021401959005743265
+    },
+    {
+      "maze": 13,
+      "sta_seconds": 7.547304791864008,
+      "maxsum_seconds": 0.02151604206301272
+    },
+    {
+      "maze": 14,
+      "sta_seconds": 7.521185332909226,
+      "maxsum_seconds": 0.02139654103666544
+    },
+    {
+      "maze": 15,
+      "sta_seconds": 7.645995874889195,
+      "maxsum_seconds": 0.02141049993224442
+    },
+    {
+      "maze": 16,
+      "sta_seconds": 7.544421625090763,
+      "maxsum_seconds": 0.0214224171359092
+    },
+    {
+      "maze": 17,
+      "sta_seconds": 7.647184957982972,
+      "maxsum_seconds": 0.02279449999332428
+    },
+    {
+      "maze": 18,
+      "sta_seconds": 7.938057667110115,
+      "maxsum_seconds": 0.023579125059768558
+    },
+    {
+      "maze": 19,
+      "sta_seconds": 8.220943249994889,
+      "maxsum_seconds": 0.02122787502594292
+    }
+  ],
+  "timing_scope": "planner calls only; excludes I/O and evaluation"
+}

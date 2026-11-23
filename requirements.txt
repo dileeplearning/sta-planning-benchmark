@@ -1,0 +1,6 @@
+# Exact direct dependency versions from the original experiment.
+# Tested with CPython 3.12 on macOS ARM64. Torch 2.2.2 requires NumPy < 2.
+numpy==1.26.4
+scipy==1.17.1
+torch==2.2.2
+matplotlib==3.11.2

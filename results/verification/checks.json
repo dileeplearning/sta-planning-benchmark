@@ -1,0 +1,16 @@
+{
+  "verification_date": "2026-11-23",
+  "fresh_virtual_environment": true,
+  "input_regeneration": "Exact match of all arrays for 20 mazes and 3000 pairs",
+  "tests_passed": 3,
+  "upstream_recurrence_max_error": 2.980232238769531e-07,
+  "rerun_arrays_identical": true,
+  "rerun_scores_identical": true,
+  "identical_derived_artifacts": {
+    "trial_scores.csv": true,
+    "success-vs-distance.csv": true,
+    "summary.json": true,
+    "planning-15x15-mazes.png": true
+  },
+  "dependency_versions": "requirements.lock"
+}

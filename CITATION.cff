@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the immutable public release or commit you use, and the upstream paper and code listed in UPSTREAM.md."
+title: "Planning on 15x15 mazes: an independent STA and max-sum benchmark"
+version: 0.1.0
+type: software
+license: MIT
+authors:
+  - name: "STA planning benchmark contributors"
+abstract: >-
+  A reproducible noiseless planning benchmark on 20 mazes and 3000 start-goal
+  pairs. STA uses its specified finite inputs and marginal decoding; max-sum
+  uses hard constraints and backtracing. This release does not isolate the
+  update rule under identical factors and decoding.

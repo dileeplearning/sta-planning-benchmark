@@ -1,0 +1,18 @@
+{
+  "mazes": 20,
+  "pairs": 5,
+  "iterations": 1500,
+  "threads": 2,
+  "tag": "main",
+  "side_length": 15,
+  "horizon": 30,
+  "beta": 6.0,
+  "tau": 50.0,
+  "threshold": 0.3,
+  "weight_noise_range": [
+    -0.025,
+    -0.015
+  ],
+  "activity_noise_sd": 0.1,
+  "upstream_equivalence_error": 5.3551048040390015e-09
+}
